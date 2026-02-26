@@ -1,0 +1,22 @@
+body{
+    background-image: url("./Assets/brick.gif");
+    padding: 0;
+    margin: 0;
+}
+
+.main-background{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+    background-color: rgba(0, 0, 0, 0.394);
+
+    display:flex;
+    justify-content: center;
+    overflow:hidden
+}
+
+.miku{
+    height: 80vh;
+    max-height: 400px;
+}
